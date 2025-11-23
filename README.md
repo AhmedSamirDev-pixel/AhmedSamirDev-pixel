@@ -22,6 +22,22 @@
 
 ---
 <h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsamirdev-pixel&show_icons=true&locale=en&layout=compact" alt="ahmedsamirdev-pixel" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedsamirdev-pixel&show_icons=true&locale=en" alt="ahmedsamirdev-pixel" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsamirdev-pixel&" alt="ahmedsamirdev-pixel" /></p>
+
+<div align="center">
+
+  <!-- First image -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsamirdev-pixel&show_icons=true&locale=en&layout=compact" />
+
+  <br/><br/>
+
+  <!-- Second image -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedsamirdev-pixel&show_icons=true&locale=en" />
+  
+  <br/><br/>
+  
+  <!-- Third image -->
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsamirdev-pixel&" alt="ahmedsamirdev-pixel" /></p>:
+
+</div>
+
+
